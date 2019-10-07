@@ -1,4 +1,4 @@
-package com.chaexsy.practise.mysql.server.consts;
+package com.chaexsy.mysql.server.engine.consts;
 
 /**
  * 支持的字符集

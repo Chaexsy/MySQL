@@ -13,6 +13,9 @@
         <module>engine</module>
         <module>clients-manager</module>
         <module>query-cache</module>
+        <module>engine-api</module>
+        <module>optimizer-api</module>
+        <module>query-cache-api</module>
     </modules>
 
 
