@@ -1,4 +1,4 @@
-package com.chaexsy.practise.mysql.server.engines.basic.row;
+package com.chaexsy.mysql.server.engine.basic.row;
 
 /**
  * Compressed 行格式

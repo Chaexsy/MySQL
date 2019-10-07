@@ -1,4 +1,4 @@
-package com.chaexsy.practise.mysql.server.engines.basic.tablespace;
+package com.chaexsy.mysql.server.engine.basic.tablespace;
 
 /**
  * 独立表空间

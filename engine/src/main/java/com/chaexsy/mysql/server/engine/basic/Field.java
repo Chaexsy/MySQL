@@ -1,4 +1,4 @@
-package com.chaexsy.practise.mysql.server.engines.basic;
+package com.chaexsy.mysql.server.engine.basic;
 
 import com.chaexsy.practise.mysql.server.consts.DataTypeEnum;
 
